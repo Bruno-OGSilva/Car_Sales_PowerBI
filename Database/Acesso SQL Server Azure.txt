@@ -1,0 +1,7 @@
+Base de Dados: VendaVeiculos
+
+Servidor: minhasplanilhas.database.windows.net
+
+Usuario Alunos: desafiodashmaker
+
+Senha Alunos: desafio2021!@
